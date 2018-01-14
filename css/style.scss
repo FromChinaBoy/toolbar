@@ -1,0 +1,11 @@
+@import "mixin";
+
+$color: #eee; 
+$toolbar-size :52px;
+
+body{
+	background: $color;
+	font-family: '微软雅黑'
+}
+
+@import "toolbar";
